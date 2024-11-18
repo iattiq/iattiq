@@ -12,4 +12,4 @@
 Roblox Lua programming for almost 6 years :3
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.lua.org" target="_blank" rel="noreferrer"> <img src="https://www.lua.org/images/logo.png" alt="Lua" width="40" height="40"/> </a> <a href="https://www.roblox.com/home" target="_blank" rel="noreferrer"> <img src="https://create.roblox.com/825e3bc5158970a7faf2ab1dadf497d09abf8603/assets/common/studio_logo_blue.png" alt="robloxstudio" width="40" height="40"/>
+<p align="left"> <a href="https://www.lua.org" target="_blank" rel="noreferrer"> <img src="https://www.lua.org/images/logo.png" alt="Lua" width="40" height="40"/> </a> <a href="https://www.roblox.com/home" target="_blank" rel="noreferrer"> <img src="https://create.roblox.com/825e3bc5158970a7faf2ab1dadf497d09abf8603/assets/common/studio_logo_blue.png" alt="robloxstudio" width="40" height="40"/></a> <a href="www.python.org" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="40" height="40"/>
