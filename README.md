@@ -5,7 +5,7 @@
   
 - Currently Learning **C++ and C#**
 
-- My repositories have stuff I've made and other repository archives
+- My repositories have stuff I've made and other repository archives <3
 
 - Discord: **nihais**
 
